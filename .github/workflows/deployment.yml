@@ -1,6 +1,6 @@
 name: Java CI with Maven
 env:
-  AZURE_WEBAPP_NAME: your-app-name    # set this to the name of your Azure Web App
+#  AZURE_WEBAPP_NAME: your-app-name    # set this to the name of your Azure Web App
   JAVA_VERSION: '11'                  # set this to the Java version to use
   
 on:
